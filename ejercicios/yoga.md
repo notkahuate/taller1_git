@@ -12,3 +12,7 @@ El yoga combina posturas, respiración y meditación para mejorar la salud físi
 1. Comienza con una breve meditación o respiración consciente.
 2. Practica una serie de posturas (Asanas) durante 20-30 minutos.
 3. Finaliza con relajación en la postura de Savasana.
+
+## Consejos
+- Practica en un lugar tranquilo y cómodo.
+- Respira profundamente durante cada postura.
