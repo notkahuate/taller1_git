@@ -12,3 +12,7 @@ El entrenamiento funcional consiste en ejercicios diseñados para mejorar movimi
 1. Realiza un calentamiento con movimientos dinámicos.
 2. Ejecuta ejercicios como sentadillas, zancadas o levantamientos con kettlebell.
 3. Completa 3 series de 10-15 repeticiones por ejercicio.
+
+## Consejos
+- Prioriza la técnica antes que la velocidad.
+- Utiliza un peso moderado que te permita mantener el control.
