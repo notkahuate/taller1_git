@@ -17,3 +17,8 @@ El CrossFit es un programa de entrenamiento funcional de alta intensidad
    - Carreras cortas o remo.
 3. Completa el WOD en circuitos o repeticiones según las indicaciones, manteniendo alta intensidad.
 4. **Enfriamiento**: Termina con estiramientos para prevenir rigidez muscular.
+
+## Consejos
+- Comienza con pesos moderados y aumenta progresivamente.
+- Prioriza la técnica en cada ejercicio para evitar lesiones.
+- Mantén una hidratación adecuada durante el entrenamiento.
